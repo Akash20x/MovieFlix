@@ -1,4 +1,4 @@
-# Entertainment web app
+# Movie Flix
 
 ## Table of contents
 
